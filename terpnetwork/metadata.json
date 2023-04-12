@@ -1,0 +1,24 @@
+{
+    "version": "0.0.1", 
+    "banner": "",
+    "title": {
+      "name": "Terp Network",
+      "description": "Terp Network is a community owned, smart contract platform for building verifiable & censorship resistant solutions for a cannabis-positive culture.",
+      "logo": ""
+    },
+    "referenceLinks": {
+      "webpage": "https://terp.network/",
+      "docs": "https://docs.terp.network",
+      "sdlRepo": "https://github.com/ovrclk/cosmos-omnibus/tree/master/terpnetwork"
+    },
+    "topology": {
+      "selected": "RPC Node",
+      "topologyList": [
+        {
+          "title": "RPC Node",
+          "description": "Deploys an RPC Node for Terp Network",
+          "url": "https://raw.githubusercontent.com/ovrclk/cosmos-omnibus/master/terpnetwork/deploy.yml"
+        }
+      ]
+    }
+  }
