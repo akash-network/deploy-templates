@@ -1,1 +1,1 @@
-The metadata.json file in this folder governs what shows up on the /node-deployment (new deployment for "Blockchain Nodes") page of Console
+The metadata.json file in this folder governs what shows up on the /landing/node-deployment (new deployment for "Blockchain Nodes") page of Console
