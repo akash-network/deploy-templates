@@ -5,16 +5,6 @@
   "maxHorizontalTiles": 4,
   "tiles": [
     {
-      "title": "Fun & Games",
-      "name": "akash-games",
-      "description": "Some fun games you can experiment with",
-      "logo": "/template-icons/nodes/80by80/hello-world.png",
-      "logoFileNameWithoutExt": "helloworld",
-      "buttonText": "Deploy Now",
-      "buttonState": true,
-      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/akash-games/metadata.json"
-    },
-    {
       "title": "Akash",
       "name": "akash",
       "description": "An RPC Node, Validator node or a Sentry node for Akash Network",

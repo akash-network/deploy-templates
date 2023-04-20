@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "JIRA",
+    "description": "Jira Software Data Center helps the world’s best agile teams plan, track, and release great software at scale.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.atlassian.com/software/jira",
+    "docs": "https://www.atlassian.com/software/jira/guides/getting-started",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/jira"
+  },
+  "topology": {
+    "selected": "JIRA Instance",
+    "topologyList": [
+      {
+        "title": "JIRA Instance",
+        "description": "Deploys a JIRA Server Instance with basic configuration.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/jira/deploy.yaml"
+      }
+    ]
+  }
+}
+

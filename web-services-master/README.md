@@ -1,0 +1,1 @@
+The metadata.json file in this folder governs what shows up on the /landing/web-deployment (new deployment for "Web Services") page of Console

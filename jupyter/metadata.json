@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Jupyter",
+    "description": "A web application for creating and sharing computational documents, commonly used for developing ML Models in Python and R.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://jupyter.org/",
+    "docs": "https://docs.jupyter.org/en/latest/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/jupyter"
+  },
+  "topology": {
+    "selected": "Jupyter Notebook",
+    "topologyList": [
+      {
+        "title": "Jupyter Notebook",
+        "description": "Deploys a Jupyter notebook environment, which is a popular user interface for data scientists today.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/jupyter/deploy.yaml"
+      }
+    ]
+  }
+}
+

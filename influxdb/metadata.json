@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "InfluxDB",
+    "description": "A time series database built from the ground up to handle high write and query loads.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.influxdata.com/products/influxdb-overview/",
+    "docs": "https://docs.influxdata.com/influxdb",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/influxdb"
+  },
+  "topology": {
+    "selected": "InfluxDB Instance",
+    "topologyList": [
+      {
+        "title": "InfluxDB Instance",
+        "description": "Deploys an InfluxDB Instance.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/influxdb/deploy.yaml"
+      }
+    ]
+  }
+}
+

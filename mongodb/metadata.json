@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "MongoDB",
+    "description": "A general purpose, document-based, distributed database built for modern application developers and for the cloud era.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.mongodb.com/",
+    "docs": "https://www.mongodb.com/docs/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/mongoDB"
+  },
+  "topology": {
+    "selected": "MongoDB Instance",
+    "topologyList": [
+      {
+        "title": "MongoDB Instance",
+        "description": "Deploys a MongoDB Instance.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/mongoDB/deploy.yaml"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "MySQL",
+    "description": "The world's most popular open source database.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.mysql.com/",
+    "docs": "https://dev.mysql.com/doc/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/MySQL"
+  },
+  "topology": {
+    "selected": "MySQL Instance",
+    "topologyList": [
+      {
+        "title": "MySQL Instance",
+        "description": "Deploys a MySQL Instance.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/MySQL/deploy.yaml"
+      }
+    ]
+  }
+}
+

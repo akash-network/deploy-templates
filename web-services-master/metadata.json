@@ -1,0 +1,138 @@
+{
+  "version": "0.0.1",
+  "introText": "Pick a template for a blockchain of choice or upload your own SDL",
+  "importSDL": true,
+  "maxHorizontalTiles": 4,
+  "tiles": [
+    {
+      "title": "Fun & Games",
+      "name": "akash-games",
+      "description": "Some fun games you can experiment with",
+      "logo": "/template-icons/nodes/80by80/hello-world",
+      "logoFileNameWithoutExt": "helloworld",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/akash-games/metadata.json"
+    },
+    {
+      "title": "WordPress",
+      "name": "wordpress",
+      "description": "Hosted instance of WordPress",
+      "logo": "/template-icons/nodes/80by80/wordpress.png",
+      "logoFileNameWithoutExt": "wordpress",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/wordpress/metadata.json"
+    },
+    {
+      "title": "Confluence",
+      "name": "confluence",
+      "description": "Hosted instance of Confluence server",
+      "logo": "/template-icons/nodes/80by80/confluence.png",
+      "logoFileNameWithoutExt": "confluence",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/confluence/metadata.json"
+    },
+    {
+      "title": "Drupal",
+      "name": "drupal",
+      "description": "Hosted instance of Drupal CMS",
+      "logo": "/template-icons/nodes/80by80/drupal.png",
+      "logoFileNameWithoutExt": "drupal",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/drupal/metadata.json"
+    },
+    {
+      "title": "MySQL",
+      "name": "mysql",
+      "description": "Hosted instance of MySQL server",
+      "logo": "/template-icons/nodes/80by80/mysql.png",
+      "logoFileNameWithoutExt": "mysql",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/mysql/metadata.json"
+    },
+    {
+      "title": "PostgreSQL",
+      "name": "postgresql",
+      "description": "Hosted instance of PostgreSQL server",
+      "logo": "/template-icons/nodes/80by80/postgres.png",
+      "logoFileNameWithoutExt": "postgres",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/postgres/metadata.json"
+    },
+    {
+      "title": "Mongo DB",
+      "name": "mongodb",
+      "description": "Hosted Instance of MongoDB",
+      "logo": "/template-icons/nodes/80by80/mongodb.png",
+      "logoFileNameWithoutExt": "mongodb",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/mongodb/metadata.json"
+    },
+    {
+      "title": "Redis",
+      "name": "redis",
+      "description": "Hosted instance of Redis",
+      "logo": "/template-icons/nodes/80by80/redis.png",
+      "logoFileNameWithoutExt": "redis",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/redis/metadata.json"
+    },
+    {
+      "title": "InfluxDB",
+      "name": "influxdb",
+      "description": "Hosted instance of InfluxDB",
+      "logo": "/template-icons/nodes/80by80/influxdb.png",
+      "logoFileNameWithoutExt": "influxdb",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/influxdb/metadata.json"
+    },
+    {
+      "title": "CouchDB",
+      "name": "couchdb",
+      "description": "Hosted instance of CouchDB",
+      "logo": "/template-icons/nodes/80by80/couchdb.png",
+      "logoFileNameWithoutExt": "",
+      "buttonText": "",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/couchdb/metadata.json"
+    },
+    {
+      "title": "Jenkins",
+      "name": "jenkins",
+      "description": "Hosted instance of Jenkins Build Server",
+      "logo": "/template-icons/nodes/80by80/jenkins.png",
+      "logoFileNameWithoutExt": "jenkins",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/jenkins/metadata.json"
+    },
+    {
+      "title": "JIRA",
+      "name": "jira",
+      "description": "Hosted instance of JIRA server",
+      "logo": "/template-icons/nodes/80by80/jira.png",
+      "logoFileNameWithoutExt": "jira",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/jira/metadata.json"
+    },
+    {
+      "title": "Hashicorp Vault",
+      "name": "hashicorp-vault",
+      "description": "Hosted instance of Hashicorp Vault",
+      "logo": "/template-icons/nodes/80by80/hashicorp-vault.png",
+      "logoFileNameWithoutExt": "hashicorp-vault",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/hashicorp-vault/metadata.json"
+    }
+   ]
+}

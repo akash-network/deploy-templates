@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Drupal",
+    "description": "A free and open-source content-management framework written in PHP and distributed under the GNU General Public License.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.drupal.org/",
+    "docs": "https://www.drupal.org/documentation",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/drupal"
+  },
+  "topology": {
+    "selected": "Drupal CMS",
+    "topologyList": [
+      {
+        "title": "Drupal CMS",
+        "description": "Deploys a Drupal CMS Instance.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/drupal/deploy.yaml"
+      }
+    ]
+  }
+}
+

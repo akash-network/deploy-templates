@@ -1,0 +1,48 @@
+{
+  "version": "0.0.1",
+  "introText": "Pick a template for an AI/ ML Model or Application of choice or upload your own SDL",
+  "importSDL": true,
+  "maxHorizontalTiles": 4,
+  "tiles": [
+    {
+      "title": "Stable Diffusion",
+      "name": "stable-diffusion",
+      "description": "Latent text-to-image diffusion model capable of generating photo-realistic images given any text input",
+      "logo": "/template-icons/ai-ml/80by80/stable-diffusion.png",
+      "logoFileNameWithoutExt": "stable-diffusion",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/stable-diffusion/metadata.json"
+    },
+    {
+      "title": "Alpaca",
+      "name": "alpaca",
+      "description": "ChatGPT like LLM that is fine tuned from Meta's LLaMA model",
+      "logo": "/template-icons/ai-ml/80by80/alpaca",
+      "logoFileNameWithoutExt": "alpaca",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/alpaca/metadata.json"
+    },
+    {
+      "title": "Serge App",
+      "name": "serge-app",
+      "description": "A chat interface based on llama.cpp for running Alpaca models",
+      "logo": "/template-icons/ai-ml/80by80/serge-app.png",
+      "logoFileNameWithoutExt": "serge-app",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/serge-app/metadata.json"
+    },
+    {
+      "title": "Jupyter",
+      "name": "jupyter",
+      "description": "Jupyter Notebook and related things",
+      "logo": "/template-icons/ai-ml/80by80/jupyter.png",
+      "logoFileNameWithoutExt": "jupyter",
+      "buttonText": "Deploy Now",
+      "buttonState": true,
+      "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/jupyter/metadata.json"
+    }
+  ]
+}
