@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "WordPress",
+    "description": "A free and open source blogging tool and a content management system (CMS) based on PHP and MySQL.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://wordpress.org/",
+    "docs": "https://wordpress.org/documentation/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/wordpress"
+  },
+  "topology": {
+    "selected": "WordPress Instance",
+    "topologyList": [
+      {
+        "title": "WordPress Instance",
+        "description": "Deploys a WordPress instance that uses Redis and MariaDB.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/wordpress/deploy.yaml"
+      }
+    ]
+  }
+}
+

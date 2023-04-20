@@ -1,0 +1,24 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Alpaca",
+    "description": "An instruction-following language model from Stanford, which is fine-tuned from Meta’s LLaMA 7B model",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+    "docs": "https://github.com/antimatter15/alpaca.cpp",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/#ai"
+  },
+  "topology": {
+    "selected": "Alpaca.cpp App",
+    "topologyList": [
+      {
+        "title": "Alpaca.cpp App",
+        "description": "UI app with CLI like interface that lets you use the Alpaca.cpp Chat LLM in a web browser",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/alpaca-cpp/deploy.yaml"
+      }
+    ]
+  }
+}

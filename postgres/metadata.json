@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "PostgreSQL",
+    "description": "A powerful, open source object-relational database system with over 30 years of active development.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.postgresql.org/",
+    "docs": "https://www.postgresql.org/docs/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/postgres"
+  },
+  "topology": {
+    "selected": "PostgreSQL Instance",
+    "topologyList": [
+      {
+        "title": "PostgreSQL Instance",
+        "description": "Deploys a PostgreSQL Server Instance.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/postgres/deploy.yaml"
+      }
+    ]
+  }
+}
+

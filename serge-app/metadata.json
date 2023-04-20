@@ -1,0 +1,24 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Serge",
+    "description": "A chat interface based on llama.cpp for running Alpaca models",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://github.com/nsarrazin/serge",
+    "docs": "https://github.com/nsarrazin/serge#readme",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/#ai"
+  },
+  "topology": {
+    "selected": "Serge App",
+    "topologyList": [
+      {
+        "title": "Serge App",
+        "description": "Deploys the Serge App that lets you easily run AI inference using Alpaca, LLaMA and other models.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/serge/deploy.yaml"
+      }
+    ]
+  }
+}

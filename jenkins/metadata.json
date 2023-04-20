@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Jenkins",
+    "description": "An open source automation server which enables developers around the world to reliably build, test, and deploy their software.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.jenkins.io/",
+    "docs": "https://www.jenkins.io/doc/book/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/jenkins"
+  },
+  "topology": {
+    "selected": "Jenkins Server Instance",
+    "topologyList": [
+      {
+        "title": "Jenkins Server Instance",
+        "description": "Deploys a Jenkins Server with basic configuration.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/jenkins/deploy.yaml"
+      }
+    ]
+  }
+}
+

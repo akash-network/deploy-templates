@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "HashiCorp Vault",
+    "description": "Vault is a tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.vaultproject.io/",
+    "docs": "https://developer.hashicorp.com/vault/docs",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/hashicorp-vault"
+  },
+  "topology": {
+    "selected": "Vault Instance",
+    "topologyList": [
+      {
+        "title": "Vault Instance",
+        "description": "Deploys a Hashicorp Vault Instance with basic configuration.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/hashicorp-vault/deploy.yaml"
+      }
+    ]
+  }
+}
+

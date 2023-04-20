@@ -1,0 +1,1 @@
+The metadata.json file in this folder governs what shows up on the /landing/ai-ml-deployment (new deployment for "AI/ ML Workloads") page of Console

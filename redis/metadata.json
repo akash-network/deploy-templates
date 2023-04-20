@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Redis",
+    "description": "The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://redis.io/",
+    "docs": "https://redis.io/docs/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/redis"
+  },
+  "topology": {
+    "selected": "Redis Instance",
+    "topologyList": [
+      {
+        "title": "Redis Instance",
+        "description": "Deploys a Redis Server Instance.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/redis/deploy.yaml"
+      }
+    ]
+  }
+}
+

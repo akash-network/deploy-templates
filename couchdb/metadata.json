@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "CouchDB",
+    "description": "Apache CouchDB™ lets you access your data where you need it by defining the Couch Replication Protocol.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://couchdb.apache.org/",
+    "docs": "https://docs.couchdb.org/",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/couchdb"
+  },
+  "topology": {
+    "selected": "CouchDB Server Instance",
+    "topologyList": [
+      {
+        "title": "CouchDB Server Instance",
+        "description": "Deploys a CouchDB Server with basic configuration.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/couchdb/deploy.yaml"
+      }
+    ]
+  }
+}
+

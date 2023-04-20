@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Confluence",
+    "description": "A remote-friendly team workspace where knowledge and collaboration meet.",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://www.atlassian.com/software/confluence",
+    "docs": "https://www.atlassian.com/software/confluence/guides",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/confluence"
+  },
+  "topology": {
+    "selected": "Confluence Server",
+    "topologyList": [
+      {
+        "title": "Confluence Server",
+        "description": "Deploys a Confluence Server with basic configuration.",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/confluence/deploy.yaml"
+      }
+    ]
+  }
+}
+

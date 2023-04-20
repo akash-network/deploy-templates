@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1", 
+  "banner": "",
+  "title": {
+    "name": "Stable Diffusion",
+    "description": "A latent text-to-image diffusion model capable of generating photo-realistic images given any text input",
+    "logo": ""
+  },
+  "referenceLinks": {
+    "webpage": "https://stablediffusionweb.com/",
+    "docs": "https://stablediffusionweb.com/#faq",
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/#ai"
+  },
+  "topology": {
+    "selected": "Easy Diffusion UI",
+    "topologyList": [
+      {
+        "title": "Easy Diffusion UI",
+        "description": "Deploys the Easy Diffusion 2.5 Web UI that lets you easily run AI inference using Stable Diffusion",
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/stable-diffusion-ui/deploy.yaml"
+      }
+    ]
+  }
+}
+
