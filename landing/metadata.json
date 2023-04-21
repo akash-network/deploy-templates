@@ -1,0 +1,56 @@
+{
+  "version": "0.0.1",
+  "categoriesTiles": {
+    "introText": "What would you like to do today?",
+    "tiles": [
+      {
+        "title": "Deploy a Blockchain Node",
+        "description": "Easy and low cost hosting for your blockchain nodes (RPC servers, Validators and more)",
+        "buttonText": "Choose a Template",
+        "route": "/landing/node-deployment",
+        "icon": "xrayView",
+        "image": "/template-icons/landing/icons/xray-view.svg",
+        "buttonEnabled": true
+      },
+      {
+        "title": "Host a Website or Web Service",
+        "description": "Low cost, decentralized equivalents of the services provided by mainstream cloud providers. Host websites, blogsites, databases and more.",
+        "buttonText": "Choose a Template",
+        "route": "",
+        "icon": "www",
+        "image": "/template-icons/landing/icons/www.svg",
+        "buttonEnabled": false
+      },
+      {
+        "title": "Deploy an AI/ ML Model",
+        "description": "Popular AI & ML models, deployed in  just a few clicks. Includes Stable Diffusion, GPT4All, Alpaca and more.",
+        "buttonText": "Choose a Template",
+        "route": "",
+        "icon": "electronicsChip",
+        "image": "/template-icons/landing/icons/electronic-chip.svg",
+        "buttonEnabled": false
+      }
+    ]
+  },
+  "sdlGuideTiles": {
+    "introText": "How it works?",
+    "introDescription": "There are 3 main steps to deploying on Akash. Check out our detailed help for more.",
+    "tiles": [
+      {
+        "step": "01",
+        "text": "Start with a template or your own custom application (SDL)",
+        "image": "/template-icons/landing/illustrations/pick-sdl.png"
+      },
+      {
+        "step": "02",
+        "text": "Choose a provider based on your preferences and desired price",
+        "image": "/template-icons/landing/illustrations/pick-provider.png"
+      },
+      {
+        "step": "03",
+        "text": "View & manage your deployed application",
+        "image": "/template-icons/landing/illustrations/deploy-app.png"
+      }
+    ]
+  }
+}

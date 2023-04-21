@@ -1,0 +1,1 @@
+The metadata.json file in this folder governs what shows up on the /landing page of Console
