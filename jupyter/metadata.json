@@ -9,7 +9,7 @@
   "referenceLinks": {
     "webpage": "https://jupyter.org/",
     "docs": "https://docs.jupyter.org/en/latest/",
-    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/jupyter"
+    "sdlRepo": "https://github.com/akash-network/awesome-akash/tree/master/tensorflow-jupyter-mnist"
   },
   "topology": {
     "selected": "Jupyter Notebook",
@@ -17,7 +17,7 @@
       {
         "title": "Jupyter Notebook",
         "description": "Deploys a Jupyter notebook environment, which is a popular user interface for data scientists today.",
-        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/jupyter/deploy.yaml"
+        "url": "https://raw.githubusercontent.com/akash-network/awesome-akash/master/tensorflow-jupyter-mnist/deploy.yaml"
       }
     ]
   }
